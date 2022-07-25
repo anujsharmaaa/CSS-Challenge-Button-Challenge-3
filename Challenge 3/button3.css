@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.explore-button{
+    height: 100vh ;
+    width: 100vw;
+    display: flex   ;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+
+}
+
+.button{
+    padding-top: 22px;
+    padding-bottom: 23px;
+    padding-left: 31px;
+    padding-right: 34px;   
+    border: 2px solid black;
+    text-transform: uppercase;
+    color: aliceblue;
+    background-color: rgb(16, 62, 216);
+    border-radius: 42px;
+    cursor: pointer;
+}
